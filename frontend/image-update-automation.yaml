@@ -9,5 +9,5 @@ spec:
     name: gitops-repo
   interval: 1m
   update:
-    path: ./applications/frontend
+    path: ./frontend
     strategy: Setters
